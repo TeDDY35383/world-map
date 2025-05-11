@@ -13,4 +13,3 @@ var ih=Object.defineProperty;var nh=(s,t,e)=>t in s?ih(s,t,{enumerable:!0,config
             <a href="${r.lawLink}" target="_blank">Ссылка на закон</a>
           </div>
         `,Er.setPosition(s.coordinate),t=!0)}),t||Er.setPosition(void 0)}),Ye.on("pointermove",function(s){const t=Ye.hasFeatureAtPixel(s.pixel);Ye.getTargetElement().style.cursor=t?"pointer":""})}
-//# sourceMappingURL=index-DHHGs_-J.js.map
