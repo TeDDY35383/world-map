@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Germany",
+    "code": "DEU",
+    "lawLink": "https://example.com/law/germany"
+  },
+  {
+    "name": "France",
+    "code": "FRA",
+    "lawLink": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033558528"
+  },
+  {
+    "name": "Australia",
+    "code": "AUS",
+    "lawLink": "https://www.ag.gov.au/integrity/publications/lobbying-code-conduct"
+  },
+  {
+    "name": "Canada",
+    "code": "CAN",
+    "lawLink": "https://laws-lois.justice.gc.ca/eng/acts/l-12.4/"
+  },
+  {
+    "name": "Latvia",
+    "code": "LVA",
+    "lawLink": "https://likumi.lv/ta/id/336676-interesu-parstavibas-atklatibas-likums"
+  },
+  {
+    "name": "Lithuania",
+    "code": "LTU",
+    "lawLink": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ed96d333bad011ea9a12d0dada3ca61b?jfwid=-1c2ur4b50c"
+  },
+  {
+    "name": "Peru",
+    "code": "PER",
+    "lawLink": "https://www.mimp.gob.pe/files/transparencia/CET/ley28024.pdf"
+  },
+  {
+    "name": "Georgia",
+    "code": "GEO",
+    "lawLink": "https://matsne.gov.ge/ru/document/view/13552?publication=5"
+  },
+  {
+    "name": "Cyprus",
+    "code": "CYP",
+    "lawLink": "https://www.iaac.org.cy/iaac/iaac.nsf/planning04_en/planning04_en?opendocument"
+  },
+  {
+    "name": "Makedonia",
+    "code": "MKD",
+    "lawLink": "https://www.pravda.gov.mk/Upload/Documents/aneks_MKD_UNCAC_Chapters_II_V_List.pdf"
+  },
+  {
+    "name": "Serbia",
+    "code": "SRB",
+    "lawLink": "https://www.paragraf.rs/propisi/zakon-o-lobiranju-republike-srbije.html"
+  },
+  {
+    "name": "Slovenia",
+    "code": "SVN",
+    "lawLink": "https://pisrs.si/pregledPredpisa?id=ZAKO5523"
+  },
+  {
+    "name": "Finland",
+    "code": "FIN",
+    "lawLink": "https://www.finlex.fi/fi/lainsaadanto/2023/430#sec_1__heading"
+  },
+  {
+    "name": "Ukraine",
+    "code": "UKR",
+    "lawLink": "https://www.kmu.gov.ua/en/news/uryad-zatverdiv-poryadok-derzhavnogo-reyestru-lobistiv"
+  },
+  {
+    "name": "United States",
+    "code": "USA",
+    "lawLink": "https://lobbyingdisclosure.house.gov/lda.html"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GBR",
+    "lawLink": "https://www.legislation.gov.uk/ukpga/2014/4/contents"
+  },
+  {
+    "name": "Montenegro",
+    "code": "MNE",
+    "lawLink": "https://www.sluzbenilist.me/cyr/propisi/2D594DFD-61A0-4B92-8EF2-8757334E67B3"
+  },
+  {
+    "name": "Chile",
+    "code": "CHL",
+    "lawLink": "https://www.bcn.cl/leychile/navegar?idNorma=1060115&idParte="
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZE",
+    "lawLink": "https://odok.gov.cz/portal/veklep/material/ALBSCLNJNW48/"
+  },
+  {
+    "name": "Ukraine",
+    "code": "UKR",
+    "lawLink": ""
+  }            
+  ]
+  
