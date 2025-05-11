@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import { resolve } from 'path'
 
 export default defineConfig({
-  base: 'world-map',
+  base: '/world-map/', 
   build: {
     outDir: 'dist',
     emptyOutDir: true,
@@ -11,8 +11,5 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html')
       }
     }
-  },
-  server: {
-    port: 3000
   }
 })
