@@ -2,7 +2,7 @@
   {
     "name": "Germany",
     "code": "DEU",
-    "lawLink": "https://example.com/law/germany"
+    "lawLink": "https://www.gesetze-im-internet.de/lobbyrg/"
   },
   {
     "name": "France",
@@ -13,6 +13,10 @@
     "name": "Australia",
     "code": "AUS",
     "lawLink": "https://www.ag.gov.au/integrity/publications/lobbying-code-conduct"
+  },
+  {
+    "name": "Hungary",
+    "code": "HUN"
   },
   {
     "name": "Canada",
