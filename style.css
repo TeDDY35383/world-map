@@ -11,10 +11,62 @@ html, body {
   width: 100%;
 }
 
-.tooltip {
+.tooltip-container {
   background: white;
-  padding: 8px;
-  border: 1px solid black;
-  border-radius: 4px;
-  font-size: 12px;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+  pointer-events: none;
+  font-family: Arial, sans-serif;
+  max-width: 200px;
+}
+
+.tooltip-content {
+  pointer-events: auto;
+}
+
+.tooltip-content strong {
+  color: #333;
+  font-size: 16px;
+}
+
+.tooltip-content a {
+  color: #1a73e8;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 8px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background: #f1f8fe;
+  transition: background 0.2s;
+}
+
+.tooltip-content a:hover {
+  background: #e1f0fd;
+  text-decoration: underline;
+}
+
+.law-canceled {
+  color: #d32f2f;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 8px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background: #ffebee;
+}
+
+.law-changed {
+  color: #8d6e00;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 8px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background: #fff8e1;
+}
+
+.map {
+  cursor: default;
 }
