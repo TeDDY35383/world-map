@@ -118,6 +118,11 @@
     "name": "Ireland",
     "code": "IRL",
     "lawLink": "https://www.irishstatutebook.ie/eli/2015/act/5/enacted/en/html"
-  }                     
+  },
+  {
+    "name": "Poland",
+    "code": "POL",
+    "lawLink": "/poland.docx"
+  }                                 
   ]
   
